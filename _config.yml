@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-"resume_header_intro": "<p>I'm a Ph.D. student at KAIST AI, advised by Prof. Juho Lee. Prior to KAIST, I received my B.S. in Statistics and Computer Science from Sungkyunkwan University. My research focuses on uncertainty calibration for large language models (LLMs), aiming to make their predictions more reliable and trustworthy. I believe that well-calibrated confidence estimates are essential for safe and effective deployment of LLMs in real-world decision-making systems.</p>"
+"resume_header_intro": "<p>I'm a Ph.D. student at KAIST AI, advised by Prof. Juho Lee. Prior to KAIST, I received my B.S. in Statistics and Computer Science from Sungkyunkwan University in 2022. I started my M.S. at KAIST AI in 2023 and transitioned to the Ph.D. program in 2025. My research focuses on uncertainty calibration for large language models (LLMs), aiming to make their predictions more reliable and trustworthy. I believe that well-calibrated confidence estimates are essential for safe and effective deployment of LLMs in real-world decision-making systems.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
