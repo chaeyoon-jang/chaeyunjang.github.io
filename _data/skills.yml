@@ -1,16 +1,16 @@
 # Skills
 - skill: Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision
-  description: Chaeyun Jang, Moonseok Choi, Yegon Kim, Hyungi Lee, Juho Lee (Preprint.)
+  description: Chaeyun Jang, Moonseok Choi, Yegon Kim, Hyungi Lee, Juho Lee [Preprint.]
   url: https://arxiv.org/abs/2506.03723
 
 - skill: Calibrated Decision-Making through LLM-Assisted Retrieval
-  description: Chaeyun Jang, Hyungi Lee, Seanie Lee, Juho Lee (Preprint.)
+  description: Chaeyun Jang, Hyungi Lee, Seanie Lee, Juho Lee [Preprint.]
   url: https://arxiv.org/abs/2411.08891
 
 - skill: Dimension Agnostic Neural Processess
-  description: Hyungi Lee, Chaeyun Jang, Dong Bok Lee, Juho Lee (ICLR 2025)
+  description: Hyungi Lee, Chaeyun Jang, Dong Bok Lee, Juho Lee [ICLR 2025]
   url: https://arxiv.org/abs/2502.20661
 
 - skill: Model Fusion through Bayesian Optimization in Language Model Fine-Tuning
-  description: Chaeyun Jang, Hyungi Lee, Jungtaek Kim, Juho Lee (NeurIPS 2024)
+  description: Chaeyun Jang, Hyungi Lee, Jungtaek Kim, Juho Lee [NeurIPS 2024]
   url: https://arxiv.org/abs/2411.06710
